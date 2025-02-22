@@ -6,10 +6,10 @@
 My name is Daniela, and I'm student at Computer Science Faculty of Iași. I'm a very curious person and interested in learning all kind of new things!
 
 ## Tech stack
-  <img height="50" src="https://github.com/user-attachments/assets/6d986584-7cca-47bd-8730-76ecd0151621"/>
-  <img height="50" src="https://github.com/user-attachments/assets/d2bf2f1b-5cfb-4d85-a867-7e2544b2c75d"/>
-  <img height="50" src="https://github.com/user-attachments/assets/577c1fd5-9e6c-4afd-af86-9146a9359bf5"/>
-  <img height="50" src="https://github.com/user-attachments/assets/9c5db208-254e-44ad-81f6-1d8611533071"/>
+  <img height="60" src="https://github.com/user-attachments/assets/54233bf9-6c74-42c4-8486-5e732ebc42de"/>
+  <img height="60" src="https://github.com/user-attachments/assets/d2bf2f1b-5cfb-4d85-a867-7e2544b2c75d"/>
+  <img height="65" src="https://github.com/user-attachments/assets/54b0275e-9e33-4dae-a617-a23d164dac7a"/>
+  <img height="60" src="https://github.com/user-attachments/assets/9c5db208-254e-44ad-81f6-1d8611533071"/>
 
 
 
