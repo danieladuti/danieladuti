@@ -9,7 +9,9 @@ My name is Daniela, and I'm student at Computer Science Faculty of Iași. I'm a 
   <img height="60" src="https://github.com/user-attachments/assets/54233bf9-6c74-42c4-8486-5e732ebc42de"/>
   <img height="60" src="https://github.com/user-attachments/assets/d2bf2f1b-5cfb-4d85-a867-7e2544b2c75d"/>
   <img height="65" src="https://github.com/user-attachments/assets/54b0275e-9e33-4dae-a617-a23d164dac7a"/>
+  <img height="60" src="https://github.com/user-attachments/assets/bf688564-0fce-4aab-8741-73e40ad29e00"/>
   <img height="60" src="https://github.com/user-attachments/assets/9c5db208-254e-44ad-81f6-1d8611533071"/>
+
 
 
 
