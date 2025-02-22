@@ -5,12 +5,32 @@
 ## About me
 My name is Daniela, and I'm student at Computer Science Faculty of Iași. I'm a very curious person and interested in learning all kind of new things!
 
+## Tech stack
+  <img height="50" src="https://github.com/user-attachments/assets/6d986584-7cca-47bd-8730-76ecd0151621"/>
+  <img height="50" src="https://github.com/user-attachments/assets/d2bf2f1b-5cfb-4d85-a867-7e2544b2c75d"/>
+  <img height="50" src="https://github.com/user-attachments/assets/577c1fd5-9e6c-4afd-af86-9146a9359bf5"/>
+  <img height="50" src="https://github.com/user-attachments/assets/9c5db208-254e-44ad-81f6-1d8611533071"/>
+
+
+
+
 ## My projects
-- 
+-
+-
+-
+
+## How to reach me:
+<a href="https://www.linkedin.com/in/daniela-du%C8%9Bescu-372900247/">
+  <img height="50" src="https://github.com/user-attachments/assets/1b4c3e10-129b-463f-bbed-6885872b4508"/>
+</a>
 
 <!--
 
 pagina asta a fost facuta in mare parte cu resurse de aici(headerul mai ales) https://github.com/kyechan99/capsule-render?tab=readme-ov-file#rounded
+
+<a href="">
+  <img height="50" src=""/>
+</a>
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) -- cum sa faci o casuta draguta
 alte culori pt gradient interesant: #005AA7 si #FFFDE4 -- de la albastru la bej
