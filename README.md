@@ -2,17 +2,11 @@
 
 
 
-## 👋 Hi there!
+## About me
 My name is Daniela, and I'm student at Computer Science Faculty of Iași. I'm a very curious person and interested in learning all kind of new things!
 
 ## My projects
-
-
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-
-- 📫 How to reach me: 
+- 
 
 <!--
 
