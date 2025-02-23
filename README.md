@@ -17,9 +17,12 @@ My name is Daniela, and I'm student at Computer Science Faculty of Iași. I'm a 
 
 
 ## My projects
--
--
--
+- [Digital Menu Board](https://github.com/danieladuti/DigitalMenuBoard)
+- [DrumKit Simulator](https://github.com/danieladuti/DrumKit--simulator)
+- [WeatherChecker](https://github.com/danieladuti/WeatherChecker--web)
+- [LFAC Project](https://github.com/danieladuti/lfac-project)
+- [SocializeIt!](https://github.com/danieladuti/SocializeIt)
+- [Solitarul / Peg Solitaire Game](https://github.com/danieladuti/Solitarul)
 
 ## How to reach me:
 <a href="https://www.linkedin.com/in/daniela-du%C8%9Bescu-372900247/">
@@ -34,6 +37,10 @@ pagina asta a fost facuta in mare parte cu resurse de aici(headerul mai ales) ht
 <a href="">
   <img height="50" src=""/>
 </a>
+
+* [Presentation Video](#presentation-video)
+* [Best Score](#best-score)
+* [Installation](#installation)
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) -- cum sa faci o casuta draguta
 alte culori pt gradient interesant: #005AA7 si #FFFDE4 -- de la albastru la bej
